@@ -46,22 +46,22 @@ A real-time chat application with modern UI and live messaging:
 
 ---
 
-### 🧠 SENSAI – Full-Stack AI Career Coach (Next.js + AI)
+### 🧠 SENSAI – Full-Stack AI Career Coach (Next.js + Gemini API)
 
-SENSAI (Smart ENgineered Skills & AI) is an AI-powered career guidance platform that helps users build better careers through personalized tools and insights.
+SENSAI (Smart ENgineered Skills & AI) is an AI-powered career guidance platform to help users grow their careers with personalized tools and real-time feedback.
 
 - **Frontend**: Next.js, Tailwind CSS, ShadCN UI  
 - **Backend**: Next.js API Routes  
-- **Auth**: Clerk  
+- **Authentication**: Clerk  
 - **Database**: PostgreSQL  
 - **AI Integration**: Google Gemini API  
 
 ➡️ **Core Features**:
-- 🧠 **Trending Skills & Industry Insights** – via Gemini-powered analysis  
-- 📄 **AI Resume Builder** – Generate and download content-rich resumes  
-- 📝 **AI Cover Letter Generator** – Tailored cover letters for job applications  
-- ❓ **Interview Prep Quiz** – 10 AI-generated questions + scoring & solutions  
-- ✅ **AI Improvement Tips** – Post-quiz feedback for interview preparation  
+- 🧠 Trending skills & industry insights (AI-powered)
+- 📄 AI resume builder with content suggestions and download
+- 📝 AI-generated cover letters tailored for companies
+- ❓ Interview quiz with 10 AI-generated questions
+- ✅ Quiz scoring, explanations, and improvement tips
 
 ---
 
@@ -77,6 +77,7 @@ SENSAI (Smart ENgineered Skills & AI) is an AI-powered career guidance platform 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RajveerSingh711)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajveer-singh-a27b66348)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rajveer711/)  
 📧 Email: rajveer032020@gmail.com
 
 ---
