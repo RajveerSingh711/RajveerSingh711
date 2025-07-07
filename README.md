@@ -48,7 +48,7 @@ A real-time chat application with modern UI and live messaging:
 
 ### 🧠 SENSAI – Full-Stack AI Career Coach (Next.js + Gemini API)
 
-SENSAI (Smart ENgineered Skills & AI) is an AI-powered career guidance platform to help users grow their careers with personalized tools and real-time feedback.
+SENSAI (Smart Engineered Skills & AI) is an AI-powered career guidance platform to help users grow their careers with personalized tools and real-time feedback.
 
 - **Frontend**: Next.js, Tailwind CSS, ShadCN UI  
 - **Backend**: Next.js API Routes  
