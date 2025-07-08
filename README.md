@@ -68,8 +68,7 @@ SENSAI (Smart Engineered Skills & AI) is an AI-powered career guidance platform 
 ## 🌱 Currently Learning
 
 - Advanced server-side rendering with Next.js  
-- Clean backend architecture and scalable APIs  
-- CI/CD pipelines and production-grade deployments
+- Clean backend architecture and scalable APIs  s
 
 ---
 
