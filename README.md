@@ -17,7 +17,7 @@ I'm a dedicated Full-Stack Developer with a strong foundation in software engine
 `React.js` • `Next.js` • `HTML` • `CSS` • `JavaScript`
 
 **Backend**  
-`Node.js` • `Express.js`
+`Node.js` • `Express.js` • `Next.js`
 
 **Databases**  
 `MongoDB` • `MySQL` • `PostgreSQL`
