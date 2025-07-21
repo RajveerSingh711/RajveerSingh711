@@ -23,7 +23,7 @@ I'm a dedicated Full-Stack Developer with a strong foundation in software engine
 `MongoDB` • `MySQL` • `PostgreSQL`
 
 **Programming Languages**  
-`Java` • `C++` • `Python` • `JavaScript`
+`Java` • `C++` • `Python` • `C`
 
 **Other Skills**  
 `Ubuntu` • `DBMS` • Basic `AI/ML`
